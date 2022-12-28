@@ -21,9 +21,11 @@ Parte dessa etapa é responder o questionário sobre tipos e práticas de testes
 
 5) Criar um Plano de Testes para esse HR Manager: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login. Realize um teste exploratório e escreva o passo-a-passo de como validar os cenários abaixo:
 
-Cenário 1: Inclusão de um novo empregado
-Cenario 2: Inclusão de um novo Job Details
-Cenário 3: Inclusão de 3 itend de Work Experience (Education, Skills e Languages)
+- Cenário 1: Inclusão de um novo empregado
+
+- Cenario 2: Inclusão de um novo Job Details
+
+- Cenário 3: Inclusão de 3 itend de Work Experience (Education, Skills e Languages)
 
 ## Diferenciais *(Não Obrigatórios)*
 - Utilizar uma estrutura de caso de testes, objetiva e de fácil compreensão;
