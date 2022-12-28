@@ -3,8 +3,10 @@
 ## Descrição:
 
 Parte dessa etapa é responder o questionário sobre tipos e práticas de testes:
-<p font color="#AA0000">
-Atenção: Evite copiar textos de artigos, blogs ou mesmo de documentos da CTFL. Estaremos avaliando sua percepção do que são essas práticas.
+<p>
+    <font color="#AA0000">
+        Atenção: Evite copiar textos de artigos, blogs ou mesmo de documentos da CTFL. Estaremos avaliando sua percepção do que são essas práticas.
+    </font>
 </p>
 :monocle_face:
 
