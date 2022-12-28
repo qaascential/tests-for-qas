@@ -9,4 +9,4 @@ Não se preocupe, os desafios não são extensos e nem complexos.
 
 [Desafio Funcional](tests/functional-challenge.md)
 
-[Desafio Automação de Testes](tests/functional-challenge.md)
+[Desafio Automação de Testes](tests/automation-challenge.md)
