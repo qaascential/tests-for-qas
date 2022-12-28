@@ -25,7 +25,7 @@ Parte dessa etapa é responder o questionário sobre tipos e práticas de testes
 
 - Cenario 2: Inclusão de um novo Job Details
 
-- Cenário 3: Inclusão de 3 itend de Work Experience (Education, Skills e Languages)
+- Cenário 3: Inclusão de 3 itens de Work Experience (Education, Skills e Languages)
 
 ## Diferenciais *(Não Obrigatórios)*
 - Utilizar uma estrutura de caso de testes, objetiva e de fácil compreensão;
