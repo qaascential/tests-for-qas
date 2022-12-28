@@ -31,3 +31,5 @@ Parte dessa etapa é responder o questionário sobre tipos e práticas de testes
 - Utilizar uma estrutura de caso de testes, objetiva e de fácil compreensão;
 - Utilizar BDD - Especificação por Exemplo em sua estrutura;
 - Incluir uma explicação dos cenários usando User Stories.
+
+### Boa sorte!
