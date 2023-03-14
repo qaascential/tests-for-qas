@@ -7,7 +7,7 @@ Parte dessa etapa é responder o questionário sobre tipos e práticas de testes
 <p align="center">⚠️ Atenção ⚠️</p>
 
 ```diff
-- Evite copiar textos de artigos, blogs ou mesmo de documentos da CTFL. -
+- Evite copiar textos de artigos, blogs, ChatGPT ou mesmo de documentos da CTFL. -
 - Estaremos avaliando sua percepção do que são essas práticas. -
 ```
 
