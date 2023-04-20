@@ -14,7 +14,7 @@ Será necessário validar pelo menos o retorno de 3 logradouros, ou seja, utiliz
 ## O que validaremos nesse teste:
 - A maneira como você construiu os seus testes. Ex: Reutilização de Código;
 - Se você respeitou o que foi requisitado no desafio;
-- Documentação (README), explicando com o máximo de detalhes que puder, sobre como configurar, executar e o motivo pelo qual você adotou a estratégia de automação que você utilizará para responder ao desafio.
+- Documentação (README), explicando com o máximo de detalhes que puder, sobre como configurar, executar e o motivo pelo qual adotou a estratégia de automação que será utilizada no desafio.
 
 ## Diferenciais *(Não Obrigatórios)*
 - **Realizar o teste utilizando o ROBOT FRAMEWORK do Python;**
