@@ -11,7 +11,7 @@ Parte dessa etapa é responder o questionário sobre tipos e práticas de testes
 - Estaremos avaliando sua percepção do que são essas práticas. -
 ```
 
-1) O que é white-box testing e como funcionam?
+1) O que é black-box testing e como funcionam?
 
 2) O que é um teste de sistema? Quais são seus tipos?
 
